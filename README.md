@@ -1,4 +1,4 @@
-# dio-desafios-intermerdiarios-python
+# dio-desafios-intermediarios-python
 Explorando POO com Python
 
 | Nome do Projeto | Descrição | Link | Tecnologias Usadas | Data de Conclusão | Status do Projeto |
